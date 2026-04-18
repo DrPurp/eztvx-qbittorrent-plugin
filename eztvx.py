@@ -9,7 +9,7 @@ from novaprinter import prettyPrinter
 
 class eztvx(object):
     url = 'https://eztvx.to'
-    name = 'EZTV'
+    name = 'EZTVX'
     supported_categories = {
         'all': 'all',
         'tv': 'tv'

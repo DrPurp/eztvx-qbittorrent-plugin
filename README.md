@@ -1,6 +1,6 @@
 Unofficial EZTVX plugin for qBittorent.
 -----------------------------------------------------------------------------------
-# Search Guide
+# Search Guide #
 
 Use the following formats to find exactly what you’re after:
 
@@ -14,20 +14,20 @@ Use the following formats to find exactly what you’re after:
 | breaking bad season 2 episode 5        | Finds a specific episode             |
 | the office 1080p s03                   | Ignores 1080p, finds season 3        |
 
-## Tips
+## Tips ##
 
 - You can use either `s02e05` or `2x05` — both work the same  
 - Quality is ignored currently
 - If you just type the show name, you’ll get everything available  
 - Be as specific as you need to narrow results  
 
-## Examples
+## Examples ##
 
 - `game of thrones s01` → full first season  
 - `friends s05e12` → one episode  
 - `the office season 3` → full season  
 
-## Planned Additions
+## Planned Additions ##
 
 - Quality filter
 - Uploader filter
@@ -36,3 +36,14 @@ Use the following formats to find exactly what you’re after:
 - Full season packs to top of list
 - Days old filter
 - Concurrent page fetching
+
+## Special Thanks ##
+
+**GarciaSiego** For inspiring me to make my own plugin
+
+---
+
+**Buy me a coffee** **
+**https://www.paypal.com/ncp/payment/MLZ2BX7AF42BJ**
+
+---
